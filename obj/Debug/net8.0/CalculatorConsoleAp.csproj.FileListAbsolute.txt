@@ -1,0 +1,14 @@
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/bin/Debug/net8.0/CalculatorConsoleAp
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/bin/Debug/net8.0/CalculatorConsoleAp.deps.json
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/bin/Debug/net8.0/CalculatorConsoleAp.runtimeconfig.json
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/bin/Debug/net8.0/CalculatorConsoleAp.dll
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/bin/Debug/net8.0/CalculatorConsoleAp.pdb
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/obj/Debug/net8.0/CalculatorConsoleAp.GeneratedMSBuildEditorConfig.editorconfig
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/obj/Debug/net8.0/CalculatorConsoleAp.AssemblyInfoInputs.cache
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/obj/Debug/net8.0/CalculatorConsoleAp.AssemblyInfo.cs
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/obj/Debug/net8.0/CalculatorConsoleAp.csproj.CoreCompileInputs.cache
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/obj/Debug/net8.0/CalculatorConsoleAp.dll
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/obj/Debug/net8.0/refint/CalculatorConsoleAp.dll
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/obj/Debug/net8.0/CalculatorConsoleAp.pdb
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/obj/Debug/net8.0/CalculatorConsoleAp.genruntimeconfig.cache
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/obj/Debug/net8.0/ref/CalculatorConsoleAp.dll
