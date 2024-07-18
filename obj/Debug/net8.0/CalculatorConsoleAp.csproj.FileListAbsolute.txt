@@ -12,3 +12,8 @@
 /home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/obj/Debug/net8.0/CalculatorConsoleAp.pdb
 /home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/obj/Debug/net8.0/CalculatorConsoleAp.genruntimeconfig.cache
 /home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/obj/Debug/net8.0/ref/CalculatorConsoleAp.dll
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/bin/Debug/net8.0/CalculatorLibrary.dll
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/bin/Debug/net8.0/CalculatorLibrary.pdb
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/obj/Debug/net8.0/CalculatorConsoleAp.csproj.AssemblyReference.cache
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/obj/Debug/net8.0/CalculatorConsoleAp.sourcelink.json
+/home/skubuntu-2-0/Code Repository/CalculatorConsoleAp/obj/Debug/net8.0/CalculatorConsoleAp.csproj.CopyComplete
