@@ -1,4 +1,5 @@
 ﻿using System.Text.RegularExpressions;
+using System.Xml.XPath;
 namespace CalculatorProgram;
 
 
@@ -11,6 +12,8 @@ class Program
         bool endApp = false;
         Console.WriteLine("Console Calculator in C#\r");
         Console.WriteLine($"-----------------------\n");
+
+        Calculator calculator = new();
 
         while (!endApp)
         {
@@ -60,7 +63,7 @@ class Program
             {
                 try
                 {
-                    result = Calculator.DoOperation(cleanNum1, cleanNum2, op);
+                    result = calculator.DoOperation(cleanNum1, cleanNum2, op);
 
                     if (double.IsNaN(result))
                     {
